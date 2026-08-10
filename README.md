@@ -1,5 +1,3 @@
-# springbootA649D-
-springbootA649D 社区老年人食堂管理系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
